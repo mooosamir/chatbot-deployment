@@ -3,3 +3,6 @@
 *.pyc
 __pycache__/
 venv
+.vscode
+.vscode/*
+.vscode-upload.json
